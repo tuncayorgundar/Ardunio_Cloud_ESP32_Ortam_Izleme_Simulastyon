@@ -1,3 +1,3 @@
-# Ardunio_Cloud_ESP32_Ortam_Izleme_Simulastyon
+# Ardunio_Cloud_ESP32_Ortam_Izleme_Simulasyon
 
 Bu proje, Wokwi üzerinde simüle edilen, Arduino Cloud entegreli bir ESP32 ortam izleme istasyonudur. Sistem, bir DHT22 sensöründen okuduğu sıcaklık ve nem verilerini hem yerel bir 16x2 I2C LCD ekranda hem de bulut panosunda eş zamanlı olarak sunar. Kullanıcılar, bulut üzerinden cihaza metin mesajları gönderebilir ve bir LED'i uzaktan kontrol edebilirken, sistem aynı zamanda yüksek sıcaklıkta LED'i otomatik olarak yakma gibi yerel bir alarm mantığına sahiptir. Çift yönlü bu iletişim, yerel cihaz kontrolü ile uzaktan izleme ve yönetimi tek bir projede birleştirir.
